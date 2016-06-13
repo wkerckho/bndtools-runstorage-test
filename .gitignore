@@ -1,0 +1,6 @@
+.gradle/
+/generated/
+enroute.zip
+.metadata
+.recommenders/
+bndtools.runstorage.test/.settings/org.eclipse.core.resources.prefs

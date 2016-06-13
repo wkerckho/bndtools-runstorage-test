@@ -1,0 +1,5 @@
+org.apache.felix.gogo.command;version='[0.14.0,0.14.1)';resolution=https://raw.githubusercontent.com/osgi/osgi.enroute/v1.0.0/cnf/distro/org.apache.felix.gogo.command/org.apache.felix.gogo.command-0.14.0.jar
+bndtools.runstorage.test;version=snapshot;resolution=file:/C:/Work/Projects/runstorage/bndtools.runstorage.test/generated/bndtools.runstorage.test.jar
+org.apache.felix.log;version='[1.0.1,1.0.2)';resolution=https://raw.githubusercontent.com/osgi/osgi.enroute/v1.0.0/cnf/distro/org.apache.felix.log/org.apache.felix.log-1.0.1.jar
+org.apache.felix.gogo.runtime;version='[0.16.2,0.16.3)';resolution=https://raw.githubusercontent.com/osgi/osgi.enroute/v1.0.0/cnf/distro/org.apache.felix.gogo.runtime/org.apache.felix.gogo.runtime-0.16.2.jar
+org.apache.felix.gogo.shell;version='[0.10.0,0.10.1)';resolution=https://raw.githubusercontent.com/osgi/osgi.enroute/v1.0.0/cnf/distro/org.apache.felix.gogo.shell/org.apache.felix.gogo.shell-0.10.0.jar

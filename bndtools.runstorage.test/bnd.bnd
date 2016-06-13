@@ -1,0 +1,2 @@
+-buildpath: osgi.enroute.base.api
+Bundle-Activator: bndtools.runstorage.test.Activator
